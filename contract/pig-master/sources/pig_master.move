@@ -16,7 +16,7 @@ module pig_master_addr::pig_master {
     const E_NOT_IMPLEMENTED: u64 = 1;
 
     /// Points to win the game are currently set to 100, we may change it to be lower to be a faster game.
-    const POINTS_TO_WIN: u64 = 20;
+    const POINTS_TO_WIN: u64 = 50;
 
     const MAX_U64: u64 = 18446744073709551615;
 

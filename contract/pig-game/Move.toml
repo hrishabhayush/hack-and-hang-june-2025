@@ -4,7 +4,8 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-pig_game_addr = "_"
+pig_game_addr = "e988a28346bba3699663b233dd58074054fbd7b7b2a14bfee9dd352211cfca6b"
+pig_master_addr = "0xda81e838661e2e314b08c09efd26db04c529e02e26359bdafd3ad6fff81489d7"
 
 [dev-addresses]
 pig_game_addr = "0x1234567890abcdef1234567890abcdef123456"
